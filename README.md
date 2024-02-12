@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dylan Walker</h1>
-<h3 align="center">Studying swe at Auburn University</h3>
+# Hi 👋, I'm Dylan Walker
+## Studying swe at Auburn University
 
 - 🔭 I’m currently working on **TheNomadPage.com**
 
