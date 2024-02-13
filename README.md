@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning AWS and typescript<br>🎯 Goals: travel the world 🌎 and graduate college 🎓</p>
+<p align="left">✨ Creating bugs since 2020<br>🌱 I'm currently woring on <a href="https://github.com/dylanwk/theNomadPage">theNomadPage.com</a> <br>📚 I'm currently learning AWS and typescript<br>🎯 Goals: travel the world 🌎 and graduate college 🎓</p>
 
 ###
 
