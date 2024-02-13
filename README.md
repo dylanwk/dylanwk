@@ -3,7 +3,7 @@
 Studying swe at Auburn University
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Talk-is-cheap,-show-me-the-code.&author=Linus-Torvalds)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Talk is cheap, show me the code.&author=Linus Torvalds)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 - 🔭 I’m currently working on **TheNomadPage.com**
