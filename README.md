@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">My name is Dylan Walker and I'm studying Software Engineering at Auburn University.</h6>
+<p align="left">My name is Dylan Walker and I'm studying Software Engineering at Auburn University.</p>
 
 ###
 
