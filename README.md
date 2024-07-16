@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>🌱 I'm currently woring on <a href="https://github.com/dylanwk/vagaspace.com">vagaspace.com</a>, an online travel agency tailored to Digital Nomads. <br>📚 I'm currently learning AWS and typescript<br>
+<p align="left">Creating bugs since 2020<br>Currently woring on <a href="https://github.com/dylanwk/vagaspace.com">vagaspace.com</a>, an online travel agency tailored to Digital Nomads.
 
 ###
 
