@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">My name is Dylan Walker and I'm studying Software Engineering at Auburn University.</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
