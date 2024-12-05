@@ -1,12 +1,3 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">Creating bugs since 2020<br>Currently woring on <a href="https://github.com/dylanwk/vagaspace.com">vagaspace.com</a>, an online travel agency tailored to Digital Nomads.
 
 ###
 
